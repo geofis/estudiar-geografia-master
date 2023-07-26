@@ -1,0 +1,229 @@
+---
+title: <large>Estudiar Geografía <br> Verano Innovador</large>
+author: Escuela de Ciencias Geográficas <br> Facultad de Ciencias <br> Universidad Autónoma de Santo Domingo
+date: UASD-ONAPI <br> <br> 26 de julio, 2023 <br> Santo Domingo, República Dominicana <br> https://geofis.github.io/estudiar-geografia-master
+output:
+  revealjs::revealjs_presentation:
+    title-slide-attributes:
+      data-background-image: img/fondo.jpg
+      data-background-size: cover
+    template: defaultmodificada.html
+    transition: fade
+bibliography: biblio.bib
+csl: apa.csl
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Visita
+
+|Esta presentación|Cuenta TW: \@geografiard|Canal YouTube (pelempito1)
+|:---:|:---:|:---:
+|![](img/qrcode-presentacion.jpg)|![](img/qrcode-geografiard.jpg)|![](img/qrcode-canal-yt-pelempito1.jpg)|
+
+# SALIDAS PROFESIONALES EN GEOGRAFÍA FÍSICA Y TÉCNICAS GEOESPACIALES
+
+## Temáticas
+
+* Insumos para la planificación territorial.
+
+* Análisis geomorfológico.
+
+* Análisis de riesgo de desastre (actuarial, probabilístico, medio físico, social), muy demandado por aseguradoras
+
+* Análisis climáticos.
+
+* Análisis biogeográfico, ecología numérica.
+
+## Estudios de cambios
+
+* Pérdida de bosques y otros ecosistemas naturales.
+
+* Deforestación y fuego.
+
+* Cambio en la línea de costa.
+
+* Cambio climático.
+
+* Dinámica de ríos, inundaciones.
+
+* Monitoreo de __deslizamientos, fallas__.
+
+* Monitoreo de __edificaciones y estructuras__ (edificios, carreteras, puentes).
+
+## Otras salidas
+
+* Investigación en geociencias.
+
+* Divulgación.
+
+* Docencia.
+
+# ¿CÓMO Y CON QUÉ SE TRABAJA EN GEOGRAFÍA FÍSICA?
+
+* Técnicas geoespaciales, tecnologías de la información geográfica (e.g. SIG).
+
+* Técnicas cuantitativas, análisis espacial, ciencia de datos geoespaciales (machine learning, deep learning, inteligencia artificial).
+
+* Programación.
+
+* GNSS.
+
+* Fotogrametría con __UAV__.
+
+
+# ALGUNOS EJEMPLOS
+
+
+## DSM de río trenzado (Ocoa) en Los Pilones-Las Carreras
+
+## ![](img/los-pilones-foto-oblicua.jpg)
+
+## ![](img/los-pilones-tripode.jpg)
+
+## ![](img/los-pilones-toma-gcp.jpg)
+
+## ![](img/los-pilones-video.mp4)
+
+## ![](img/los-pilones-ortomosaico.png)
+
+## ![](img/los-pilones-dsm.png)
+
+
+## Estadística zonal: análisis geoespacial en la nube
+
+## ![](img/ez-portada.jpg)
+
+## ![](img/ez-agrupamiento-espacial-detalle.jpg)
+
+## ![](img/ez-chelsa-bio.jpg)
+
+## ![](img/ez-distancia-osm.jpg)
+
+## ![](img/ez-muchas-variables.jpg)
+
+## ![](img/ez-clasificar-municipios.jpg){width=60%}
+
+
+## Deformación en la ciudad de Santo Domingo
+
+## ![](img/deformacion-sd-velocidades.jpg)
+
+## ![](img/deformacion-sd-mapa-estaciones-ocupacion-estatica.jpg)
+
+## ![](img/deformacion-sd-ocupacion-alma.jpg)
+
+## ![](img/deformacion-sd-gustavo-con-nunez-01.jpg){width=50%}
+
+## ![](img/deformacion-sd-los-guandules.jpg)
+
+
+## Seguimiento de incendios
+
+## ![](img/incendios-timelapse.mp4)
+https://twitter.com/geografiard/status/1632213327815294985
+
+## ![](img/incendios-bahoruco-2022.jpg){width=60%}
+
+## ![](img/incendios-jcr-2023.jpg)
+
+## Seguimiento de inundaciones
+
+## ![](img/inundaciones-fiona-2022-mapa.jpg)
+
+## ![](img/inundaciones-fiona-2022-mapa-web.jpg)
+
+## Geomorfología en el río Mana
+
+![](img/geomorfologia-mana-clasificacion.png)
+
+## Geomorfología en el río Naranjal (Ocoa): captura kárstica
+
+
+
+## Ecología de plantas en Ocoa, relación hábitat-especie
+
+
+
+## Hidrografía dominicana
+
+## ![](img/hidrografia-orden-red.jpg)
+
+## ![](img/hidrografia-vaguadas-talwegs-umbral-180.gif)
+
+## ![](img/hidrografia-geomorfonos.jpg)
+
+## ![](img/hidrografia-geomorfonos-detalle.jpg)
+
+# CONSTRUIR HARDWARE
+
+
+## Pluviómetro
+
+## ![](img/pluviometro-proceso-01.jpg)
+
+## ![](img/pluviometro-proceso-02.jpg)
+
+https://twitter.com/geografiard/status/1613258223359762443
+
+https://twitter.com/geografiard/status/1613607468701216769
+
+
+## GNSS solar y normal
+
+## ![](img/gnss-solar-campus-uasd-estudiantes.jpg){width=70%}
+
+## ![](img/gnss-solar-campus-uasd-letras.gif)
+
+## ![](img/gnss-solar-diametro-a-altura-de-antena.png){width=80%}
+
+## ![](img/gnss-solar-trimble-used.png)
+
+## ![](img/gnss-solar-esquema.jpg)
+
+## ![](img/gnss-solar-modulo-proceso-marcado.jpg)
+
+## ![](img/gnss-solar.jpg)
+
+## ![](img/gnss-solar-cerca.jpg)
+
+## ![](img/gnss-solar-proceso.jpg)
+
+## ![](img/gnss-solar-celular.jpg)
+
+## ![](img/gnss-solar-desorden.jpg)
+
+## ![](img/gnss-solar-esquema.jpg)
+
+## ![](img/gnss-solar-receptor-mojado.jpg){width=50%}
+
+## Armar un drone
+
+## ![](img/drone-cuadro.jpg)
+
+## ![](img/drone-componentes.jpg)
+
+# DIVULGACIÓN
+
+## ![](img/divulgacion-charla-escuela-santa-filomena.jpg)
+
+## ![](img/divulgacion-curso-gnss.jpg)
+
+# Investigación
+
+<img src="img/investigacion-dos-portadas.png"  height="100%" width="100%">
+
+|   |   |
+|---|---|
+|<span style="font-size:60%;">[Clusters of high abundance of plants detected from local indicators of spatial association (LISA) in a semi-deciduous tropical forest](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208780)</span> |<span style="font-size:60%;">[Drainage Rearrangement as a Driver of Geomorphological Evolution During the Upper Pleistocene in a Small Tropical Basin](http://www.ccsenet.org/journal/index.php/jgg/article/view/0/39703)|</span>|
+
+
+
+
+# REFERENCIAS
+
+<section style="font-size: 24px; text-align: left;">
